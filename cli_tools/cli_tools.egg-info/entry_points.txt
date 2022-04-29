@@ -1,0 +1,10 @@
+[console_scripts]
+add = calculator:add
+authenticate = authenticate:auth
+concat = fileutils:concat
+download = fileutils:download
+greetings = greeter:greet
+note = fileutils:note
+notes = notes:main
+subtract = calculator:subtract
+
